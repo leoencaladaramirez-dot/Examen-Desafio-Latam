@@ -27,3 +27,21 @@ Este proyecto es un portafolio personal de Marlon Encalada, desarrollado utiliza
 
 Experticia en comunicación y un portafolio bien presentado serán la clave para destacar en el ámbito laboral.
 
+# FOKEO A COMPAÑEROS:
+
+1 Compañero: "Jorge Alfredo Leiva López"
+
+Proyecto: jleival.github.io
+DescripciónEste proyecto es un sitio web personal desarrollado por Jorge Alfredo Leiva López. He forkeado este repositorio para aprender más sobre desarrollo web y control de versiones con Git.
+Contribuciones- Forked el proyecto original para experimentar con cambios.- Realicé modificaciones en el CSS para cambiar el color de los subtítulos de azul a verde, mejorando la presentación visual del sitio.  Puedes ver el proyecto original en Jorge Alfredo Leiva López (https://github.com/original_user/jleival.github.io).
+
+## Enlaces- Mi Fork: (git@github.com:leoencaladaramirez-dot/jleival.github.io.git) (https://github.com/tu_usuario/jleival.github.io)
+
+
+2 Compañero: "Jorge Alfredo Leiva López"
+
+Proyecto: jleival.github.io
+DescripciónEste proyecto es un sitio web personal desarrollado por Jorge Alfredo Leiva López. He forkeado este repositorio para aprender más sobre desarrollo web y control de versiones con Git.
+Contribuciones- Forked el proyecto original para experimentar con cambios.- Realicé modificaciones en el CSS para cambiar el color de los subtítulos de azul a verde, mejorando la presentación visual del sitio.  Puedes ver el proyecto original en Jorge Alfredo Leiva López (https://github.com/original_user/jleival.github.io).
+
+## Enlaces- Mi Fork: (git@github.com:leoencaladaramirez-dot/jleival.github.io.git) (https://github.com/tu_usuario/jleival.github.io)
