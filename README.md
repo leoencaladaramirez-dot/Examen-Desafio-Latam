@@ -35,7 +35,7 @@ Proyecto: jleival.github.io
 DescripciónEste proyecto es un sitio web personal desarrollado por Jorge Alfredo Leiva López. He forkeado este repositorio para aprender más sobre desarrollo web y control de versiones con Git.
 Contribuciones- Forked el proyecto original para experimentar con cambios.- Realicé modificaciones en el CSS para cambiar el color de los subtítulos de azul a verde, mejorando la presentación visual del sitio.  Puedes ver el proyecto original en Jorge Alfredo Leiva López (https://github.com/original_user/jleival.github.io).
 
-## Enlaces- Mi Fork: [git@github.com:leoencaladaramirez-dot/jleival.github.io.git] (https://github.com/tu_usuario/jleival.github.io)
+## Enlaces- Mi Fork: [ git@github.com:leoencaladaramirez-dot/jleival.github.io.git ] (https://github.com/tu_usuario/jleival.github.io)
 
 
 2 Compañero: "Kevin Alcaino"
@@ -45,4 +45,4 @@ DescripciónEste proyecto es un sitio web personal desarrollado por Kevin Alcain
 Contribuciones- Forked el proyecto original para experimentar con cambios.- Realicé modificaciones en el CSS para cambiar el color de los elementos a azul, mejorando la presentación visual del sitio.
 Puedes ver el proyecto original en Kevin Alcaino (https://github.com/Kevin-alcaino/kevinalcaino.io).
 
-## Enlaces- Mi Fork: [git@github.com:leoencaladaramirez-dot/Kevin-alcaino.io.git] (https://github.com/TU-USER/kevinalcaino.io)
+## Enlaces- Mi Fork: [ git@github.com:leoencaladaramirez-dot/Kevin-alcaino.io.git ] (https://github.com/TU-USER/kevinalcaino.io)
